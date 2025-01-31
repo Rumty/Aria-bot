@@ -677,6 +677,6 @@ async def avatar(ctx, user: discord.Member = None):
 
 #Message command ##################################################################################
 ##################################################################################
-token = "OTIzNzY2NzE3MzEyNzk0Njc0.GXJ_ND.1XtJtB6B-j2IL97S8_5UvL5NVpV68qhVZ_Z6Ws"
+token = ""
 
 bot.run(token)
